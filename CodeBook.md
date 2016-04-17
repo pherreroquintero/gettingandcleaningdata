@@ -55,7 +55,7 @@ Each row identifies the subject who performed the activity, the Mean and Standar
 
 
 
-- 'averageFeaturesDataset.txt': List of all features.
+2. 'averageFeaturesDataset.txt': List of all features.
 Shows the FeaturesDataset information in the form of the average of each variable for each activity and each subject 
 * Variables
 	* activity: Activity performed in the experiment. (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
