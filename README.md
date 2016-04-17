@@ -1,7 +1,7 @@
 # gettingandcleaningdata
 Getting and cleaning data course project repository
 
-The following script perform the following steps in order to create two tidy datasets
+The following script run_analysis.R perform the following steps in order to create two tidy datasets
 featuresDatased and AverageFeaturesDataset
 
 ###0. Check existance of the files.
